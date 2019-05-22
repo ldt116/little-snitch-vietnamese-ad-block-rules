@@ -31,13 +31,13 @@
     }, 
     {
       "action": "deny",
-      "creationDate": 1558558951.812243,
+      "creationDate": 1558558952.812243,
       "modificationDate": 1558560926.440855,
       "owner": "me",
       "process": "any",
       "remote-domains": [
-        "shop.vnexpress.net",
         "raovat.vnexpress.net",
+        "shop.vnexpress.net"
       ]
     }
   ]
