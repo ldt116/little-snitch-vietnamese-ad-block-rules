@@ -1,0 +1,31 @@
+{
+  "description": "Adblock rules for Little Snitch by ThuanLe",
+  "name": "Vietnamese Ad Block by ThuanLe",
+  "rules": [
+    {
+      "action": "deny",
+      "creationDate": 1558560929.3916521,
+      "modificationDate": 1558560929.3916521,
+      "owner": "me",
+      "process": "any",
+      "remote-domains": "googleadservices.com"
+    },
+    {
+      "action": "deny",
+      "creationDate": 1558558951.812243,
+      "modificationDate": 1558560926.440855,
+      "owner": "me",
+      "process": "any",
+      "remote-domains": [
+        "admicro.vn",
+        "anthill.vn",
+        "ants.vn",
+        "innity.com",
+        "innity.net",
+        "mgid.com",
+        "novanet.vn",
+        "yomedia.vn"
+      ]
+    }
+  ]
+}
