@@ -20,12 +20,24 @@
         "admicro.vn",
         "anthill.vn",
         "ants.vn",
+        "eclick.vn",
         "innity.com",
         "innity.net",
         "mgid.com",
         "novanet.vn",
         "polyad.net",
         "yomedia.vn"
+      ]
+    }, 
+    {
+      "action": "deny",
+      "creationDate": 1558558951.812243,
+      "modificationDate": 1558560926.440855,
+      "owner": "me",
+      "process": "any",
+      "remote-domains": [
+        "shop.vnexpress.net",
+        "raovat.vnexpress.net",
       ]
     }
   ]
