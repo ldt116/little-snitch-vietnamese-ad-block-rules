@@ -8,7 +8,10 @@
       "modificationDate": 1558560929.3916521,
       "owner": "me",
       "process": "any",
-      "remote-domains": "googleadservices.com"
+      "remote-domains": [
+        "googleadservices.com",
+        "tpc.googlesyndication.com"
+      ]
     },
     {
       "action": "deny",
