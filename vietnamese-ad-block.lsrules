@@ -9,6 +9,7 @@
       "owner": "me",
       "process": "any",
       "remote-domains": [
+        "adservice.google.com",
         "adservice.google.com.vn",
         "doubleclick.net", 
         "googleadservices.com",
@@ -23,19 +24,24 @@
       "process": "any",
       "remote-domains": [
         "2mdn.net",
+        "adblox.net",
         "adbro.me",
         "admicro.vn",
         "adnetwork.vn",
         "ambientdigitalgroup.com",
         "anthill.vn",
         "ants.vn",
+        "adsrvr.org",
         "eclick.vn",
+        "gammaplatform.com",
         "innity.com",
         "innity.net",
         "mgid.com",
         "moatads.com",
+        "mookie1.com",
         "novanet.vn",
         "polyad.net",
+        "serving-sys.com",
         "yomedia.vn"
       ]
     }, 
