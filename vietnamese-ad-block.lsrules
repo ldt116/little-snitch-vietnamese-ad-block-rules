@@ -9,6 +9,8 @@
       "owner": "me",
       "process": "any",
       "remote-domains": [
+        "adservice.google.com.vn",
+        "doubleclick.net", 
         "googleadservices.com",
         "tpc.googlesyndication.com"
       ]
@@ -31,6 +33,7 @@
         "innity.com",
         "innity.net",
         "mgid.com",
+        "moatads.com",
         "novanet.vn",
         "polyad.net",
         "yomedia.vn"
